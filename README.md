@@ -65,7 +65,7 @@ Add deploy scripts in package.json:
 
 
 in BrowserRouter add basename 
-# BrowserRouter basename = "/frontend-mern-batch11am">
+# BrowserRouter basename = "/ramasamyfullstack/frontend-mern-batch11am">
   
   ## Layout />
   
